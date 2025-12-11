@@ -3,19 +3,18 @@ const ProgressBar = ({ currentIndex, totalData }) => {
   console.log(progressPercent);
 
   return (
-    <div className="border-gray-300 border-2 p-1 rounded-md">
-      <div className="flex items-center justify-between">
-        <div className="flex items-center gap-1 w-[85%]">
-          <div
-            className="bg-green-200 p-4 rounded-sm"
-            style={{ width: `${progressPercent}%` }}
-          ></div>
-          <p>{progressPercent}%</p>
+    <div className="flex items-center justify-between p-1 border-2 border-gray-300 rounded-md">
+      <div className="flex items-center justify-between w-[80%]">
+        <div
+          className="flex justify-end gap-1 py-2 pl-8 bg-green-200 rounded-sm"
+          style={{ width: `${progressPercent}%` }}
+        >
+          <p className="ml-4">{progressPercent}%</p>
         </div>
-        <span>
-          {currentIndex + 1} of {totalData}
-        </span>
       </div>
+      <span>
+        {currentIndex + 1} of {totalData}
+      </span>
     </div>
   );
 };
