@@ -1,6 +1,6 @@
 # Flash Cards 🧠
 
-This project is a challenge from [roadmap.sh](https://roadmap.sh).
+This project is a challenge from [roadmap.sh](https://roadmap.sh). You can find the challenge [here](https://roadmap.sh/projects/flash-cards).
 
 ## Requirements 🎯
 
