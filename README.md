@@ -16,3 +16,6 @@ This project is a challenge from [roadmap.sh](https://roadmap.sh). You can find 
 *   **JavaScript/JSX** 💻: The programming language and its XML-like syntax extension used for building the application logic.
 *   **Tailwind CSS** 🎨: For styling the flashcards and other UI components.
 *   **HTML** 📄: The standard markup language for documents designed to be displayed in a web browser.
+   
+## Preview - Flash Cards 💻
+![Logo GitHub](https://ik.imagekit.io/9shkqioju/image.png)
