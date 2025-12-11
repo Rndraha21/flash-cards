@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "question": "What is JavaScript?",
+        "answer": "JavaScript is a high-level, dynamic, and interpreted programming language used for web development to create interactive and dynamic content."
+    },
+    {
+        "id": 2,
+        "question": "What is the DOM?",
+        "answer": "The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content."
+    },
+    {
+        "id": 3,
+        "question": "What is CSS?",
+        "answer": "CSS (Cascading Style Sheets) is a stylesheet language used to describe the presentation of a document written in a markup language like HTML."
+    },
+    {
+        "id": 4,
+        "question": "What is a variable?",
+        "answer": "A variable is a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity of information."
+    },
+    {
+        "id": 5,
+        "question": "Explain Git.",
+        "answer": "Git is a distributed version control system for tracking changes in source code during software development."
+    },
+    {
+        "id": 6,
+        "question": "What is HTML?",
+        "answer": "HTML (HyperText Markup Language) is the standard markup language for documents designed to be displayed in a web browser."
+    },
+    {
+        "id": 7,
+        "question": "What is a function in programming?",
+        "answer": "A function is a block of organized, reusable code that is used to perform a single, related action."
+    },
+    {
+        "id": 8,
+        "question": "What is a loop?",
+        "answer": "A loop is a sequence of instructions that is continually repeated until a certain condition is reached."
+    },
+    {
+        "id": 9,
+        "question": "What is React?",
+        "answer": "React is a free and open-source frontend JavaScript library for building user interfaces based on UI components."
+    },
+    {
+        "id": 10,
+        "question": "What is an API?",
+        "answer": "An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate with each other."
+    },
+    {
+        "id": 11,
+        "question": "What is object-oriented programming (OOP)?",
+        "answer": "OOP is a programming paradigm based on the concept of 'objects', which can contain data and code (methods)."
+    },
+    {
+        "id": 12,
+        "question": "What is SQL?",
+        "answer": "SQL (Structured Query Language) is a domain-specific language used to manage data held in a relational database management system."
+    },
+    {
+        "id": 13,
+        "question": "What is a framework?",
+        "answer": "A framework is a standardized set of tools, libraries, and best practices that help developers build applications faster and more efficiently."
+    },
+    {
+        "id": 14,
+        "question": "What is a promise in JavaScript?",
+        "answer": "A Promise is an object representing the eventual completion (or failure) of an asynchronous operation and its resulting value."
+    },
+    {
+        "id": 15,
+        "question": "What is Frontend Development?",
+        "answer": "Frontend development focuses on the client-side of the web, dealing with everything users see and interact with (HTML, CSS, and JavaScript)."
+    },
+    {
+        "id": 16,
+        "question": "What is Backend Development?",
+        "answer": "Backend development focuses on the server-side, database, and application logic that powers the website/app (e.g., Node.js, Python, Java)."
+    },
+    {
+        "id": 17,
+        "question": "What is JSON?",
+        "answer": "JSON (JavaScript Object Notation) is a lightweight data-interchange format, used primarily for transmitting data between a server and web application."
+    },
+    {
+        "id": 18,
+        "question": "What is responsive design?",
+        "answer": "Responsive design is an approach to web design that makes web pages render well on a variety of devices and screen sizes (e.g., desktop, mobile)."
+    },
+    {
+        "id": 19,
+        "question": "What is debugging?",
+        "answer": "Debugging is the process of finding and resolving bugs or defects that prevent correct operation of computer software or a system."
+    },
+    {
+        "id": 20,
+        "question": "What is a Web Server?",
+        "answer": "A web server is software and hardware that uses HTTP and other protocols to respond to client requests (like web browsers) over the internet."
+    }
+]
